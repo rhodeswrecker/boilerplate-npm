@@ -1,5 +1,6 @@
 {
-	"name": "harrison-rhodes-npm-package-json",
+	"name": "fcc-learn-npm-package-json",
+	"author":"Harrison Rhodes",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
